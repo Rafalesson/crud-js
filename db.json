@@ -1,9 +1,23 @@
 {
   "profile": [
     {
-      "nome": "felipe",
-      "email": "felipe@alura.com",
+      "nome": "Livia Luana",
+      "email": "livia@email.com",
       "id": 1
+    },
+    {
+      "nome": "Rafael Alesson",
+      "email": "rafa@email.com"
+    },
+    {
+      "nome": "Luciano",
+      "email": "luciano@luciano.com",
+      "id": 2
+    },
+    {
+      "nome": "rafa",
+      "email": "as@aws.com",
+      "id": 3
     }
   ]
 }
